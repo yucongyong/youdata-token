@@ -35,12 +35,12 @@ curl -s -X POST "{domain}/api/dash/util/genToken" \
 
 ## 输出
 
-返回生成的token字符串，格式如：`1772776808123ead95553a76a9e408b4a16b7`
+返回生成的token字符串，格式如：`77808123ead95553a76a9e40811121212212b4a16b7`
 
 ## 示例
 
 用户输入：
 - tokenKey: `<用户的tokenKey>`
-- domain: `https://d.youdata.netease.com`
+- domain: `https://xxx.163.com`
 
 调用后返回token供用户使用。
