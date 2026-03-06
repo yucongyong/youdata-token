@@ -7,7 +7,7 @@ DOMAIN=$2
 
 if [ -z "$TOKEN_KEY" ] || [ -z "$DOMAIN" ]; then
     echo "用法: ./gen_token.sh <tokenKey> <domain>"
-    echo "示例: ./gen_token.sh 17727621338145dba6514670cb81872b45751 https://d.youdata.netease.com"
+    echo "示例: ./gen_token.sh aaasd7621338145dba6514670cb81872b457111151 https://d.youdata.netease.com"
     exit 1
 fi
 
